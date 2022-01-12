@@ -1,6 +1,6 @@
 ## ⚠️ Repo zur 1. Auflage
 
-> **Achtung:** Dies ist der Code zur **1. Auflage des Angular-Buchs von 2017 (Softcover)**. Falls Du das neue Buch in der 2. Auflage besitzt, nutze bitte den Code aus dem neuen Repository [book-monkey3](https://github.com/angular-buch/book-monkey3).
+> **Achtung:** Dies ist der Code zur **1. Auflage des Angular-Buchs von 2017 (Softcover)**. Falls Du das neue Buch in der 2. Auflage besitzt, nutze bitte den Code aus dem neuen Repository [book-monkey3](https://github.com/angular-buch/book-monkey3)...
 
 ## 🔁 Aktualisierungen
 
